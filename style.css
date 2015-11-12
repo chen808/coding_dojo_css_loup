@@ -1,0 +1,119 @@
+/*CSS reset settings here*/
+*{
+ margin: 0px;
+ padding: 0px;
+}
+
+.wrapper{
+	width: 970px;
+	background-color: #DCDCDC;
+	margin: 0 auto;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.mainHeader{
+	width: 950px;
+	height: 75px;
+	background-color: #c0c0c0;
+	margin: 0 auto;
+	border-radius: 10px;
+}
+
+.mainTitle{
+	font-size: 2.3em;
+	padding-top: 15px;
+	margin-left: 10px;
+}
+
+.sideInfo{
+	width: 200px;
+	background-color: #c0c0c0;
+	border-radius: 10px;
+	margin-top: 30px;
+	margin-left: 10px;
+	padding: 10px;
+	display: inline-block;
+}
+
+.sideInfoText{
+	margin-left: 30px;
+}
+
+aside a {
+	text-decoration: none;
+	color: #0000FF;
+}
+
+aside ul{
+	line-height: 1.3em;
+}
+
+.mainInfo{
+	width: 680px;
+	height: 440px;
+	background-color: #A9A9A9;
+	border-radius: 10px;
+	display: inline-block;
+	margin-left: 25px;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	vertical-align: top;
+	padding: 30px 10px 10px 10px;
+}
+
+h2 {
+	margin-left: 20px;
+	font-size: 2em;
+}
+
+section a{
+	color: #0000FF;	
+}
+
+section h3{
+	color: #0000FF;
+	font-size: 1em;
+	margin-left: -15px;
+}
+
+.linkBold{
+	font-weight: bold;
+}
+
+.mainInfoText{
+	margin-left: 30px;
+}
+
+section p {
+	width: 610px;
+	margin-left: 40px;
+	margin-top: 10px;
+}
+
+section ul.mainInfoText{
+	width: 610px;
+	line-height: 1.5em;
+	margin-top: 10px;
+	margin-left: 50px;
+}
+
+.footer{
+	width: 930px;
+	height: 60px;
+	background-color: #c0c0c0;
+	margin: 0 auto;
+	border-radius: 10px;
+	padding-top: 20px;
+	padding-left: 20px;
+}
+
+footer a{
+	color: #0000FF;	
+}
+
+
+
+
+
+
